@@ -8,46 +8,7 @@
   <developer id="uk.org.greenend.chiark.sgtatham">
   	<name>Simon Tatham</name>
   </developer>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.blackbox.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.bridges.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.cube.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.dominosa.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.fifteen.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.filling.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.flip.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.flood.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.galaxies.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.guess.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.inertia.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.keen.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.lightup.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.loopy.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.magnets.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.map.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.mines.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.mosaic.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.net.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.netslide.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.palisade.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.pattern.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.pearl.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.pegs.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.range.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.rect.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.samegame.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.signpost.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.singles.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.sixteen.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.slant.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.solo.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.tents.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.towers.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.tracks.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.twiddle.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.undead.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.unequal.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.unruly.desktop</launchable>
-  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.untangle.desktop</launchable>
+  <launchable type="desktop-id">uk.org.greenend.chiark.sgtatham.puzzles.desktop</launchable>
   <description>
     <p>Simon Tatham's Portable Puzzle Collection contains a number of popular puzzle games for a single player.  It currently consists of these games:.</p>
     <ul>
